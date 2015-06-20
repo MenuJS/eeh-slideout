@@ -25,6 +25,3 @@ This module works great with the [eeh-navigation](https://ethanhann.github.io/ee
     </main>
 </eeh-slideout>
 ```
-=======
-An AngularJS Slideout.js module.
->>>>>>> 95c78c2a0df86da4065dbb1dbc0b2798333f409e
