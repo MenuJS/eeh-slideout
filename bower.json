@@ -1,0 +1,29 @@
+{
+  "name": "eeh-slideout",
+  "version": "0.1.0",
+  "authors": [
+    "Ethan Hann <ethanhann@gmail.com>"
+  ],
+  "description": "An AngularJS Slideout.js module.",
+  "main": "src/eeh-slideout.js",
+  "keywords": [
+    "AngularJS",
+    "Menu",
+    "Navigation",
+    "Slideout.js",
+    "eehNavigation",
+    "eeh"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": ">=1.2",
+    "slideout.js": ">=0.1"
+  }
+}
